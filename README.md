@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล :ปุญณพัฒน์ ภาณุมนต์วาที
 
-Vercel URL :
+Vercel URL :https://lab08-2567-640610692.vercel.app/
 
 ---
 
